@@ -5,7 +5,7 @@
 %global crate quoted_printable
 
 Name:           rust-%{crate}
-Version:        0.4.2
+Version:        0.5.2
 Release:        1%{?dist}
 Summary:        Simple encoder/decoder for quoted-printable data
 
